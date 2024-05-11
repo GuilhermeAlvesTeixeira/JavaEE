@@ -1,5 +1,6 @@
 *.java linguagem=Java
 *.jsp linguagem=JSP
+*.sql linguagem=SQL
 agenda/doc/index.html.html linguist-vendored
 agenda/doc/search.html.html linguist-vendored
 agenda/doc/help-doc.html.html linguist-vendored
