@@ -31,3 +31,9 @@ agenda/doc/model/class-use/DAO.html linguist-vendored
 agenda/doc/controller/package-use.html linguist-vendored
 agenda/doc/controller/package-tree.html linguist-vendored
 agenda/doc/model/class-use/JavaBeans.html linguist-vendored
+
+agenda/doc/script.js linguist-vendored
+agenda/doc/tag-search-index.js linguist-vendored
+agenda/doc/search.js linguist-vendored
+agenda/doc/search-page.js linguist-vendored
+agenda/doc/module-search-index.js linguist-vendored
