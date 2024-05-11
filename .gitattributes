@@ -37,3 +37,5 @@ agenda/doc/tag-search-index.js linguist-vendored
 agenda/doc/search.js linguist-vendored
 agenda/doc/search-page.js linguist-vendored
 agenda/doc/module-search-index.js linguist-vendored
+
+agenda/doc/stylesheet.css linguist-vendored
