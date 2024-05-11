@@ -1,3 +1,4 @@
 linguist-vendored
 .java linguist-detectable=true
 *.java linguagem=Java
+*.jsp linguagem=JSP
