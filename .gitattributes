@@ -1,4 +1,3 @@
 *.java linguagem=Java
 *.jsp linguagem=JSP
-mvnw linguist-vendored
-mvnw.cmd linguist-vendored
+
